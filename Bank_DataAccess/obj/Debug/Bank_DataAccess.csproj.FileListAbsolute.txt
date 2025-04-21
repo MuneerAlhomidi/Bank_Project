@@ -1,0 +1,6 @@
+C:\Users\ONE BY ONE\source\repos\Bank_DataAccess\bin\Debug\Bank_DataAccess.dll
+C:\Users\ONE BY ONE\source\repos\Bank_DataAccess\bin\Debug\Bank_DataAccess.pdb
+C:\Users\ONE BY ONE\source\repos\Bank_DataAccess\obj\Debug\Bank_DataAccess.csproj.AssemblyReference.cache
+C:\Users\ONE BY ONE\source\repos\Bank_DataAccess\obj\Debug\Bank_DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ONE BY ONE\source\repos\Bank_DataAccess\obj\Debug\Bank_DataAccess.dll
+C:\Users\ONE BY ONE\source\repos\Bank_DataAccess\obj\Debug\Bank_DataAccess.pdb

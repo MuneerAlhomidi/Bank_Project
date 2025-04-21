@@ -1,0 +1,97 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ONE BY ONE\\Desktop\\ProjectBank\\Bank_Project\\SystemBank\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ONE BY ONE\\source\\repos\\SystemBank\\Globale\\ClsGlobale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ONE BY ONE\\source\\repos\\Bank_DataAccess\\clsCurrencies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ONE BY ONE\\source\\repos\\Bank_DataAccess\\clsEmployeeData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ONE BY ONE\\source\\repos\\Bank_Buisness\\clsEmployees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ONE BY ONE\\source\\repos\\Bank_DataAccess\\clsDataSettingAccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClsGlobale.cs",
+              "DocumentMoniker": "C:\\Users\\ONE BY ONE\\source\\repos\\SystemBank\\Globale\\ClsGlobale.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\SystemBank\\Globale\\ClsGlobale.cs",
+              "ToolTip": "C:\\Users\\ONE BY ONE\\source\\repos\\SystemBank\\Globale\\ClsGlobale.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\SystemBank\\Globale\\ClsGlobale.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAuwJMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T22:58:58.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "clsEmployeeData.cs",
+              "DocumentMoniker": "C:\\Users\\ONE BY ONE\\source\\repos\\Bank_DataAccess\\clsEmployeeData.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\Bank_DataAccess\\clsEmployeeData.cs",
+              "ToolTip": "C:\\Users\\ONE BY ONE\\source\\repos\\Bank_DataAccess\\clsEmployeeData.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\Bank_DataAccess\\clsEmployeeData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAANQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T18:47:48.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "clsEmployees.cs",
+              "DocumentMoniker": "C:\\Users\\ONE BY ONE\\source\\repos\\Bank_Buisness\\clsEmployees.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\Bank_Buisness\\clsEmployees.cs",
+              "ToolTip": "C:\\Users\\ONE BY ONE\\source\\repos\\Bank_Buisness\\clsEmployees.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\Bank_Buisness\\clsEmployees.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHYAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T18:41:18.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clsCurrencies.cs",
+              "DocumentMoniker": "C:\\Users\\ONE BY ONE\\source\\repos\\Bank_DataAccess\\clsCurrencies.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\Bank_DataAccess\\clsCurrencies.cs",
+              "ToolTip": "C:\\Users\\ONE BY ONE\\source\\repos\\Bank_DataAccess\\clsCurrencies.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\Bank_DataAccess\\clsCurrencies.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T19:07:52.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "clsDataSettingAccess.cs",
+              "DocumentMoniker": "C:\\Users\\ONE BY ONE\\source\\repos\\Bank_DataAccess\\clsDataSettingAccess.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\Bank_DataAccess\\clsDataSettingAccess.cs",
+              "ToolTip": "C:\\Users\\ONE BY ONE\\source\\repos\\Bank_DataAccess\\clsDataSettingAccess.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\Bank_DataAccess\\clsDataSettingAccess.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T19:07:49.111Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

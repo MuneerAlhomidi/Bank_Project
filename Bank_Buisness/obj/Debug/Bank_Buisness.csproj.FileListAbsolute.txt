@@ -1,0 +1,9 @@
+C:\Users\ONE BY ONE\source\repos\Bank_Buisness\bin\Debug\Bank_Buisness.dll
+C:\Users\ONE BY ONE\source\repos\Bank_Buisness\bin\Debug\Bank_Buisness.pdb
+C:\Users\ONE BY ONE\source\repos\Bank_Buisness\bin\Debug\Bank_DataAccess.dll
+C:\Users\ONE BY ONE\source\repos\Bank_Buisness\bin\Debug\Bank_DataAccess.pdb
+C:\Users\ONE BY ONE\source\repos\Bank_Buisness\obj\Debug\Bank_Buisness.csproj.AssemblyReference.cache
+C:\Users\ONE BY ONE\source\repos\Bank_Buisness\obj\Debug\Bank_Buisness.csproj.CoreCompileInputs.cache
+C:\Users\ONE BY ONE\source\repos\Bank_Buisness\obj\Debug\Bank_Bui.9D7B4F39.Up2Date
+C:\Users\ONE BY ONE\source\repos\Bank_Buisness\obj\Debug\Bank_Buisness.dll
+C:\Users\ONE BY ONE\source\repos\Bank_Buisness\obj\Debug\Bank_Buisness.pdb
